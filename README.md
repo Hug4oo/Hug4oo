@@ -32,7 +32,7 @@ Formado em **Gestão da TI** pelo Senac São Paulo.
 - 🖥️ Windows, Linux e macOS
 - 🔑 Gestão de acessos com Active Directory e SharePoint Online
 - 🌐 Redes: Cisco, 802.1x, VLAN e VPN SSL
-- 📋 Processos de TI: Jira, RFCs e RDMs
+- 📋 Processos de TI: Jira, ServiceNow, RFCs e RDMs
 - ☁️ Estudando Cloud (Azure) e Segurança da Informação
 - 💻 Construindo projetos próprios para praticar de ponta a ponta
 
@@ -71,6 +71,7 @@ Está no ar, com usuários reais testando.
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Desenvolvimento
